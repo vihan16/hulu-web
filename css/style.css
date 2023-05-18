@@ -217,16 +217,16 @@ h3{
 }
 
 .categories .cover-1 {
-    background: url(/image/cover-1.jpg) no-repeat center center / cover;
+    background: url(../image/cover-1.jpg) no-repeat center center / cover;
 }
 .categories .cover-2 {
-    background: url(/image/cover-2.jpg) no-repeat center center / cover;
+    background: url(../image/cover-2.jpg) no-repeat center center / cover;
 }
 .categories .cover-3 {
-    background: url(/image/cover-3.jpg) no-repeat center center / cover;
+    background: url(../image/cover-3.jpg) no-repeat center center / cover;
 }
 .categories .cover-4 {
-    background: url(/image/cover-4.jpg) no-repeat center center / cover;
+    background: url(../image/cover-4.jpg) no-repeat center center / cover;
 }
 
 /* live */
@@ -257,7 +257,7 @@ h3{
 }
 /* live sports */
 .live-sports{
-    background: url(/image/live-sports.jpg) no-repeat center center / cover ;
+    background: url(../image/live-sports.jpg) no-repeat center center / cover ;
     height: 800px;
     position: relative;
 }
@@ -277,7 +277,7 @@ h3{
 }
 
 .live-sports-logos > div{
-    background: url(/image/network-logo-bg.png) no-repeat center center / cover;
+    background: url(../image/network-logo-bg.png) no-repeat center center / cover;
     height: 60px;
     width: 60px;
     display: flex;
