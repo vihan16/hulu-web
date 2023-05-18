@@ -97,7 +97,7 @@ h3{
 
 .header{
     height: 530px;
-    background: url(/image/header.jpg) no-repeat center center / cover;  
+    background: url(./image/header.jpg) no-repeat center center / cover;  
 }
 
 .header nav {
